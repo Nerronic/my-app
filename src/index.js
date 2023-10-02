@@ -1,15 +1,14 @@
-import React from 'react';
-import ReactDOM from 'react-dom';
-import 'tachyons';
-import Hello from './Hello';
-import './index.css';
-import reportWebVitals from './reportWebVitals';
+import React from "react";
+import ReactDOM from "react-dom";
+import "tachyons";
+import Cardlist from "./Cardlist";
+import "./index.css";
+import reportWebVitals from "./reportWebVitals";
+import { robots } from "./robots";
 
-
-ReactDOM.render(<Hello greeting={ "Hello Power player!"}/>,  document.getElementById('root'));
+ReactDOM.render(<Cardlist robots={robots} />, document.getElementById("root"));
 
 // If you want to start measuring performance in your app, pass a function
 // to log results (for example: reportWebVitals(console.log))
 // or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
 reportWebVitals();
-

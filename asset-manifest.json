@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.fbb42ac5.css",
+    "main.js": "/my-app/static/js/main.24e59f39.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/SEGA.woff": "/my-app/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/my-app/index.html",
+    "main.fbb42ac5.css.map": "/my-app/static/css/main.fbb42ac5.css.map",
+    "main.24e59f39.js.map": "/my-app/static/js/main.24e59f39.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fbb42ac5.css",
+    "static/js/main.24e59f39.js"
+  ]
+}
